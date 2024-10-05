@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Yawar Ali
 
 Welcome to my GitHub profile! I'm passionate about **Art and Illustration**, **AI and Data Analysis**, and creating **Digital Products**. Here, you'll find my projects, ideas, and resources related to these interests.
 
