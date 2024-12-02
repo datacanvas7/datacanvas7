@@ -11,10 +11,19 @@ Welcome to my GitHub profile! I'm passionate about **Art and Illustration**, **A
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: Python, R, JavaScript
-- **Design Tools**: Adobe Suite, Canva, Figma
+- **Languages**: Python
+- **Design Tools**: Canva, Figma
 - **Data Tools**: Excel, Tableau, Power BI
 - **AI Frameworks**: TensorFlow, PyTorch
+
+### Tools Used
+
+![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)
+![Power Automate](https://img.icons8.com/color/48/000000/microsoft-flow.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![SQL](https://img.icons8.com/color/48/000000/sql.png)
+![MS Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png)
+![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)
 
 ## 🌟 Featured Projects
 
