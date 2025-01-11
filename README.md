@@ -7,12 +7,13 @@
 
 ## Tools Used  
 Here are the tools I frequently use, along with their logos:  
-[Power BI](https://img.icons8.com/color/48/000000/power-bi.png)
-[Power Automate](https://img.icons8.com/color/48/000000/microsoft-flow.png)
-[Python](https://img.icons8.com/color/48/000000/python.png)
-[SQL](https://img.icons8.com/color/48/000000/sql.png)
-[MS Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png)
-[GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)
+(https://img.icons8.com/color/48/000000/power-bi.png)
+(https://img.icons8.com/color/48/000000/microsoft-flow.png)
+(https://img.icons8.com/color/48/000000/python.png)
+(https://img.icons8.com/color/48/000000/sql.png)
+(https://img.icons8.com/color/48/000000/microsoft-excel-2019.png)
+(https://img.icons8.com/material-outlined/48/000000/github.png)
+
 ---
 
 ## Projects  
