@@ -1,4 +1,4 @@
-# [YOUR NAME IN ALL CAPS]  
+# YAWAR ALI
 **Role:** Data Analyst  
 
 ![Profile Picture](path/to/your/profile_picture.jpg)  
@@ -7,15 +7,12 @@
 
 ## Tools Used  
 Here are the tools I frequently use, along with their logos:  
-
-- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) **Python**  
-- ![Power Automate](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Power_Automate_logo.svg/1024px-Power_Automate_logo.svg.png) **Power Automate**  
-- ![MS Excel](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282018%E2%80%93present%29.svg.png) **MS Excel**  
-- ![Replit](https://upload.wikimedia.org/wikipedia/commons/4/47/Replit_logo.svg) **Replit**  
-- ![MS Visio Code](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Microsoft_Visio_icon_%282019-present%29.svg/512px-Microsoft_Visio_icon_%282019-present%29.svg.png) **MS Visio Code**  
-- ![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png) **SQL**  
-- ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg) **GitHub**  
-
+[Power BI](https://img.icons8.com/color/48/000000/power-bi.png)
+[Power Automate](https://img.icons8.com/color/48/000000/microsoft-flow.png)
+[Python](https://img.icons8.com/color/48/000000/python.png)
+[SQL](https://img.icons8.com/color/48/000000/sql.png)
+[MS Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png)
+[GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)
 ---
 
 ## Projects  
