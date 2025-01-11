@@ -1,55 +1,44 @@
-# 👋 Hello, I'm Yawar Ali
+# [YOUR NAME IN ALL CAPS]  
+**Role:** Data Analyst  
 
-Welcome to my GitHub profile! I'm passionate about **Art and Illustration**, **AI and Data Analysis**, and creating **Digital Products**. Here, you'll find my projects, ideas, and resources related to these interests.
-
-## 🎨 Interests
-
-- **Art and Illustration**: I love creating digital art and illustrations. Check out my projects where I experiment with different styles and techniques.
-- **AI and Data Analysis**: I'm fascinated by how AI can transform data into insights. I enjoy working with data sets and visualizing trends.
-- **Excel and Canva Designs**: I create visually appealing designs and dashboards using Excel and Canva. I believe that good design enhances understanding.
-- **Digital Products**: I develop various digital products, from templates to tools, aimed at improving productivity and creativity.
-
-## 🔧 Technologies & Tools
-
-- **Languages**: Python
-- **Design Tools**: Canva, Figma
-- **Data Tools**: Excel, Tableau, Power BI
-- **AI Frameworks**: TensorFlow, PyTorch
-
-### Tools Used
-
-![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)
-![Power Automate](https://img.icons8.com/color/48/000000/microsoft-flow.png)
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![SQL](https://img.icons8.com/color/48/000000/sql.png)
-![MS Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png)
-![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)
-
-## 🌟 Featured Projects
-
-- **[Project Name 1](link-to-your-project)**: A brief description of what this project does and why it's interesting.
-- **[Project Name 2](link-to-your-project)**: A brief description of what this project does and why it's interesting.
-- **[Project Name 3](link-to-your-project)**: A brief description of what this project does and why it's interesting.
-
-## 📫 Get in Touch
-
-Feel free to reach out if you want to collaborate or just chat about art, data, or tech!
-
-- [LinkedIn](your-linkedin-profile)
-- [Portfolio](your-portfolio-link)
-- [Email](mailto:your-email@example.com)
-
-## 📝 Blog / Articles
-
-I occasionally write about my experiences and projects. Check out my articles:
-
-- [Article Title 1](link-to-article)
-- [Article Title 2](link-to-article)
-
-## 🎉 Let's Connect!
-
-I’m always open to new ideas, collaborations, and discussions. Let’s create something awesome together!
+![Profile Picture](path/to/your/profile_picture.jpg)  
 
 ---
 
-Thank you for visiting my profile! 🌟
+## Tools Used  
+Here are the tools I frequently use, along with their logos:  
+
+- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) **Python**  
+- ![Power Automate](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Power_Automate_logo.svg/1024px-Power_Automate_logo.svg.png) **Power Automate**  
+- ![MS Excel](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282018%E2%80%93present%29.svg.png) **MS Excel**  
+- ![Replit](https://upload.wikimedia.org/wikipedia/commons/4/47/Replit_logo.svg) **Replit**  
+- ![MS Visio Code](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Microsoft_Visio_icon_%282019-present%29.svg/512px-Microsoft_Visio_icon_%282019-present%29.svg.png) **MS Visio Code**  
+- ![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png) **SQL**  
+- ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg) **GitHub**  
+
+---
+
+## Projects  
+
+### 1. Action Plan Against Overloading Assets  
+**Description:** Developed an efficient system for mitigating asset overloading through data-driven strategies.  
+
+### 2. On-field Surveys Summary Dashboard  
+**Description:** Created a comprehensive dashboard summarizing on-field survey data for improved reporting and monitoring.  
+
+### 3. Power Automated Flows for Daily Count and Rectification  
+**Description:** Automated workflows for sending daily count emails and initiating rectification activities, enhancing analytics and reporting.  
+
+---
+
+## Resources Used  
+
+### Supporting Files  
+- [Action Plan Documentation](path/to/action_plan_file.pdf)  
+- [On-field Dashboard Files](path/to/dashboard_file.xlsx)  
+- [Power Automate Flow Details](path/to/flow_details.docx)  
+
+---
+
+### About Me  
+I am passionate about leveraging data to solve complex problems, create efficient solutions, and drive meaningful insights. Feel free to connect with me on [LinkedIn](https://www.linkedin.com).  
