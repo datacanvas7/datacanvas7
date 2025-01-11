@@ -8,10 +8,15 @@
 ## Tools Used  
 Here are the tools I frequently use, along with their logos:  
 (https://img.icons8.com/color/48/000000/power-bi.png)
+
 (https://img.icons8.com/color/48/000000/microsoft-flow.png)
+
 (https://img.icons8.com/color/48/000000/python.png)
+
 (https://img.icons8.com/color/48/000000/sql.png)
+
 (https://img.icons8.com/color/48/000000/microsoft-excel-2019.png)
+
 (https://img.icons8.com/material-outlined/48/000000/github.png)
 
 ---
