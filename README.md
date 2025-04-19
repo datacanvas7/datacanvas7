@@ -1,55 +1,34 @@
-# **YAWAR ALI**  
-👨‍💻 **Role:** Data Scientist  
+<h1 align="center">Hi 👋, I'm Yawar Ali</h1>
+<h3 align="center">A passionate Data Scientist from Pakistan</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com)  
-![Profile Picture](path/to/your/profile_picture.jpg)  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=datacanvas7&label=Profile%20views&color=0e75b6&style=flat" alt="datacanvas7" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datacanvas7" alt="datacanvas7" /></a> </p>
 
-## 👨‍💻 **About Me**  
-👋 Hi, I’m **Yawar Ali**  
-👀 Passionate about data analytics & data science, problem-solving, and process automation.  
-🌱 Currently improving my skills in **Power BI, SQL, Python, and Power Automate**.  
-💡 Looking to collaborate on **data-driven projects, business intelligence, and workflows automation**.  
-📫 Feel free to reach me via [**LinkedIn**](https://www.linkedin.com/in/yawar-ali1/) or email at **yawar3513@gmail.com**.  
-⚡ In my free time, I explore new trends in **Data science, AI, and analytics**.  
+- 🔭 I’m currently working on **Data Science with Python**
 
----
+- 🌱 I’m currently learning **Machine Learning with Python**
 
-## 🛠 **Languages & Tools**  
-![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)  
-![Power Automate](https://img.icons8.com/color/48/000000/microsoft-flow.png)  
-![Python](https://img.icons8.com/color/48/000000/python.png)  
-![SQL](https://img.icons8.com/color/48/000000/sql.png)  
-![Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png)  
-![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)  
+- 👯 I’m looking to collaborate on **AI Integration Projects**
 
----
+- 📝 I regularly write articles on Linkedin [https://www.linkedin.com/in/yawar-ali1/](https://www.linkedin.com/in/yawar-ali1/)
 
-## 🔥 **Projects**  
+- 💬 Ask me about **Python | Movies | Football**
 
-### 📊 **1. Action Plan Against Overloading Assets**  
-📌 **Description:** Developed an efficient system for mitigating asset overloading through data-driven strategies.  
+- 📫 How to reach me **yawar3513@gmail.com**
 
-### 📈 **2. On-field Surveys Summary Dashboard**  
-📌 **Description:** Created a comprehensive dashboard summarizing on-field survey data for improved reporting and monitoring.  
+- ⚡ Fun fact **I'm pretty good with AI and story telling.**
 
-### ⚙️ **3. Power Automated Flows for Daily Count and Rectification**  
-📌 **Description:** Automated workflows for sending daily count emails and initiating rectification activities, enhancing analytics and reporting.  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yawar-ali1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yawar-ali1" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## 📁 **Resources Used**  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=datacanvas7&show_icons=true&locale=en&layout=compact" alt="datacanvas7" /></p>
 
-📌 **Supporting Files:**  
-- [Action Plan Documentation](path/to/action_plan_file.pdf)  
-- [On-field Dashboard Files](path/to/dashboard_file.xlsx)  
-- [Power Automate Flow Details](path/to/flow_details.docx)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datacanvas7&show_icons=true&locale=en" alt="datacanvas7" /></p>
 
----
-
-## 📊 **GitHub Stats**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)  
-
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datacanvas7&" alt="datacanvas7" /></p>
