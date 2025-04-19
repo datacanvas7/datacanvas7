@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! I'm Yawar, a Data Scientist from Karachi, Pakistan</h1>
+<h1 align="left">Hi 👋! I'm Yawar, a Data Scientist</h1>
 
 ###
 
