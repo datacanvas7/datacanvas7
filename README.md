@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋! I'm Yawar Ali</h1>
 I love to analyze, optimize and visualize data into useful insights.
 
----
+
 
 ###
 
@@ -11,12 +11,12 @@ I love to analyze, optimize and visualize data into useful insights.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=datacanvas7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
----
+
 ###
 
 <img align="right" height="150" src="https://i.gifer.com/En1y.gif" alt="coding animation" />
 
----
+
 ###
 
 <div align="left">
@@ -43,7 +43,7 @@ I love to analyze, optimize and visualize data into useful insights.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva" />
 </div>
 
----
+
 ###
 
 <div align="left">
@@ -66,5 +66,5 @@ I love to analyze, optimize and visualize data into useful insights.
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="47" height="35" alt="behance" />
   </a>
 </div>
----
+
 ###
