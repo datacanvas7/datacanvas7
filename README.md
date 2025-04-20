@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋! I'm Yawar Ali</h1>
-<p align="left">I love to analyze, optimize and visualize data into useful insights.</p>
+<p align="left">"Redefining what’s possible with data."</p>
 
 ###
 
