@@ -58,7 +58,7 @@
   <a href="https://www.linkedin.com/in/yawar-ali1/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin" />
   </a>
-  <a href="YOUR_LINKTREE_URL" target="_blank">
+  <a href="https://linktr.ee/yawaralix" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="47" height="35" alt="linktree" />
   </a>
   <a href="mailto:yawar3513@gmail.com">
@@ -74,5 +74,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="47" height="35" alt="behance" />
   </a>
 </div>
-
-###
