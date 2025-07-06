@@ -5,10 +5,10 @@
 
 ## 👨‍💻 About Me
 - 👋 Hi, I'm Yawar Ali
-- 👀 I'm interested in learning AI, problem solving activities, leading Data Science projects for businesses, AI/ML development, and building insightful dashboards
-- 🌱 I'm currently learning AI & Machine Learning
-- 💞️ I'm looking to collaborate on AI, ML, Analytical and Governance projects through Data Science
 - 🔭 I'm working as a Data Analyst, solving business problems through analytics and dashboarding
+- 🌱 I'm currently learning AI & Machine Learning
+- 👀 I'm interested in learning AI, problem solving activities, leading Data Science projects for businesses, AI/ML development, and building insightful dashboards
+- 💞️ I'm looking to collaborate on AI, ML, Analytical and Governance projects through Data Science
 - ⚡ In my free time, I solve problems on GeeksforGeeks.
 -  I read and write sometimes on tech on Medium : https://medium.com/@yawar9844.
 - 📫 How to reach me: yawar3513@gmail.com
