@@ -1,76 +1,90 @@
-<h1 align="left">Hi 👋! I'm Yawar Ali</h1>
+<h1 align="center">👋 Hey GitHub Fam !!! This is Yawar</h1>
+
+###
+
 <p align="left">"Redefining what’s possible with data."</p>
 
 ###
 
-## 👨‍💻 About Me
-- 👋 Hi, I'm Yawar Ali
-- 🔭 I'm working as a `Data Analyst`, solving business problems through analytics and dashboarding
-- 🌱 I'm currently learning `AI & Machine Learning`
-- 👀 I'm interested in learning AI, problem solving activities, leading Data Science projects for businesses, AI/ML development, and building insightful dashboards
-- 💞️ I'm looking to collaborate on AI, ML, Analytical and Governance projects through `Data Science`
-- ⚡ In my free time, I solve problems on `GeeksforGeeks & LeetCode`.
--  I read and write sometimes on tech on `Medium` : https://medium.com/@yawar9844.
-- 📫 How to reach me: yawar3513@gmail.com
-
-###
-
-## 🛠 Languages & Tools Used
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="30" alt="jupyter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" height="30" alt="kaggle" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="sqlserver" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="30" alt="git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva" />
-</div>
-
-###
-
-## 📊 My Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=datacanvas7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=datacanvas7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=datacanvas7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img height="170" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHh1MWhmdnl1dXR5c2NraTV1MmhseGtvaWlsYWJycnp1eTlpMXkxeCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/eTquAFs4yZVDlNVD6H/giphy.gif"  />
 </div>
-
-<img align="right" height="150" src="https://i.gifer.com/En1y.gif" alt="coding animation" />
 
 ###
 
-## 🌐 Connect With Me
-<div align="left">
+<h2 align="left">👨‍💻 About Me</h2>
+
+###
+
+<h5 align="left">🔭 What I Do<br>I transform complex business challenges into actionable insights through:  <br>- Advanced Analytics: Building predictive models and data-driven solutions  <br>- AI/ML Development: Implementing end-to-end machine learning solutions  <br>- Executive Dashboarding: Creating interactive visualizations for strategic decision-making  <br>- Data Governance: Ensuring integrity and scalability of analytics systems  <br><br>🌱 Currently Upskilling  <br>- TensorFlow/PyTorch <br>- LLM applications and generative AI  <br>- Cloud-based analytics architectures (AWS/GCP)  <br><br>💡 Core Competencies  <br>- Python, SQL, Data Structures & Algorithms, Data Analytics, Power BI, Qlik Sense<br>- ML Models Fine Tuning & Evaluation, Feature Engineering, Statistics<br>- Data Storytelling, Stakeholder Management</h5>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" height="60" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" height="60" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/yawar-ali1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.behance.net/yawarali7" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://linktr.ee/yawaralix" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="47" height="35" alt="linktree" />
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
   </a>
-  <a href="mailto:yawar3513@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail" />
-  </a>
-  <a href="YOUR_DISCORD_LINK" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord" />
-  </a>
-  <a href="YOUR_INSTAGRAM_LINK" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram" />
-  </a>
-  <a href="YOUR_BEHANCE_LINK" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="47" height="35" alt="behance" />
+  <a href="https://medium.com/@yawar9844" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=datacanvas7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=datacanvas7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=datacanvas7&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=datacanvas7&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=datacanvas7&radius=16&theme=arctic&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/datacanvas7/datacanvas7/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/datacanvas7/datacanvas7/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/datacanvas7/datacanvas7/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+</div>
+
+###
